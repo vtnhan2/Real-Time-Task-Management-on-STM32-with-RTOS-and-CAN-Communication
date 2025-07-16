@@ -84,10 +84,5 @@ Debug information is sent via UART4 (9600 baud) including:
 - Temperature readings
 - System state changes
 
-## Team Members
-1. Vo Thanh Nhan (22200114)
-2. Le Tien Thang (22200144)
-3. Lam Minh Quan (22200131)
-
 ## License
 This project is licensed under the terms of the STMicroelectronics license as specified in the source code headers.
