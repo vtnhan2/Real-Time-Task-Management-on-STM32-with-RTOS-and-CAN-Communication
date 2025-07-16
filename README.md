@@ -83,3 +83,4 @@ Debug information is sent via UART4 (9600 baud) including:
 - CAN message details
 - Temperature readings
 - System state changes
+## Demo: https://youtube.com/shorts/vcVTZiqfOcE?feature=share
