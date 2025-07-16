@@ -83,6 +83,3 @@ Debug information is sent via UART4 (9600 baud) including:
 - CAN message details
 - Temperature readings
 - System state changes
-
-## License
-This project is licensed under the terms of the STMicroelectronics license as specified in the source code headers.
